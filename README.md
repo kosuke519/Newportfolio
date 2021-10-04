@@ -1,7 +1,11 @@
 Portfolio URL https://portfolio-56eaf.web.app/
 
+Components devide AtomicDesign
+CSS use UIcomponents
+
 # Use tools
 
-<li> editor
-  vscode
+<li> Editor: vscode
+  <li>UIcomponent:  chakraUI
+   
  
